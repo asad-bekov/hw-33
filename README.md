@@ -120,6 +120,7 @@ Prometheus и Grafana стали отраслевым стандартом дл�
 
 ## YAML
 
+<details>
 <summary>docker-compose.yml</summary>
 
 ```yaml
@@ -189,7 +190,7 @@ networks:
 </details>
 
 ---
-
+<details>
 <summary>prometheus.yml</summary>
 
 ```yaml
